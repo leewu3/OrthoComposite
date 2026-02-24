@@ -2,6 +2,8 @@
 
 This is an independent experimental project by a solo developer. I created this out of a desire to have a professional looking composite creator that is just as efficient as the expensive proprietary programs like Dolphin, but without the cost. It is a professional desktop application for creating orthodontic photo composites with drag-and-drop image placement, editing tools, and high-quality PDF/image export.
 
+[Download link](https://github.com/leewu3/OrthoComposite/releases/download/v1.0/OrthoComposite.exe) for Windows executable.
+
 ## Installation Notes & Security
 
 Why you might see a warning:
@@ -29,6 +31,9 @@ Here's the virustotal.com scan URL: https://www.virustotal.com/gui/file/25e81f0e
 - **High-Quality Export** — Landscape 8.5×11" at 300 DPI as both PNG and PDF
 - **Portable Executable** — Available as a Windows executable that doesn't require installation
 - **Dark Theme** — Modern, accessible UI with WCAG AA compliant contrast ratios
+
+## Support my work
+If this software has improved your practice efficiency, please consider supporting me @ https://buymeacoffee.com/leewu
 
 
 ## Usage Guide
